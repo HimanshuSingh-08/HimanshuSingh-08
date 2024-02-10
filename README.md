@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu" alt="himanshu" /></a> </p>
+</a> </p>
 
 <p align="left"> <a href="https://twitter.com/__himanshu_08" target="blank"><img src="https://img.shields.io/twitter/follow/__himanshu_08?logo=twitter&style=for-the-badge" alt="__himanshu_08" /></a> </p>
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **himansh.singh293@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu" alt="himanshu" />
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PEcxNuK6CoOBcUjaTc_d11MzB4kK_NJP/view?usp=sharing](https://drive.google.com/file/d/1PEcxNuK6CoOBcUjaTc_d11MzB4kK_NJP/view?usp=sharing)
 
